@@ -2,132 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0bc05f9-14b2-4b0c-a4ee-13fc92b44a11" name="Default" comment="majid">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/09sept_Irma_g16geocolor.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/201.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Sustainability in the Water-Energy-Food Nexus.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/WEF.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/hurrican2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/hurricane.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/hurricane_matthew-.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Banda_regular-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Banda_regular-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Banda_regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ag-futura-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ag-futura-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ag-futura-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ArjanDurresi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ArjanDurresi1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/GantiMurthy.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/GantiMurthy1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/JefReimer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/JefReimer1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bestmgmt/covercrops.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bestmgmt/croprotation.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bestmgmt/filterstrips.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bestmgmt/grassedwaterways.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bestmgmt/notillage.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bestmgmt/stripcropping.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bestmgmt/wetlands.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/contentAreaBckgrd.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logoIUPUI.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logoNsf.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logoOsu.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/majid.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/majid1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/maps/landuse.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/maps/outline.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/maps/soil.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/maps/storage.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/maps/streams.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/maps/subbasin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/meghna.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/meghna2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nicholas.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nicholas1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/rss.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sampleBanner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sampleBannerOld.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/snehasis-mukhopadhyay.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/snehasis-mukhopadhyay1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/stock-photo-14521571-lakeside-habitat-sunset.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tiltj.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/tiltj1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ie6/background_browser.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ie6/browser_chrome.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ie6/browser_firefox.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ie6/browser_ie.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ie6/browser_opera.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ie6/browser_safari.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/wrestore.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/HurricanePath.geojson" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/StandingRock_outline.geojson" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/Streams.geojson" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/TestBuffer.geojson" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/camp.geojson" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/geog371.geojson" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/airport-15.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/circle-01.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/lighthouse-15.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/triangle-15.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/triangle-stroked-15.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/icons/trianglee-15.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/standingrock.geojson" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/style.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/umatilla.geojson" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/umatilla3.geojson" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/watersheds.geojson" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/collaborators.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/color.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/full-width-pics.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/modern-business.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/storymap.2.3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/text.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/error_log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/faculty.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Banda_regular-demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Banda_regular-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ag-futura-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/footer.php.bad" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/header.php.bad" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php.bad" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/contact_me.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/globeminimap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ie6/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ie6/warning.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jqBootstrapValidation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/storymap.2.3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partners.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/puplications.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/storymap2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/students.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template-homepage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template-nosidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/how-it-works.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/collaborators.html" afterPath="$PROJECT_DIR$/collaborators.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/puplications.html" afterPath="$PROJECT_DIR$/puplications.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/students.html" afterPath="$PROJECT_DIR$/students.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.html" afterPath="$PROJECT_DIR$/test.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -145,10 +26,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="144" column="0" lean-forward="false" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+            <state relative-caret-position="221">
+              <caret line="82" column="24" lean-forward="true" selection-start-line="82" selection-start-column="24" selection-end-line="84" selection-end-column="96" />
               <folding>
-                <element signature="e#12186#12192#0" expanded="true" />
+                <element signature="e#12073#12079#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -157,8 +38,8 @@
       <file leaf-file-name="storymap2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/storymap2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="1557">
+              <caret line="183" column="72" lean-forward="false" selection-start-line="183" selection-start-column="63" selection-end-line="183" selection-end-column="72" />
               <folding>
                 <marker date="1517269167301" expanded="true" signature="16820:16826" ph="©" />
               </folding>
@@ -169,10 +50,10 @@
       <file leaf-file-name="puplications.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/puplications.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1683">
-              <caret line="99" column="22" lean-forward="false" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+            <state relative-caret-position="186">
+              <caret line="81" column="86" lean-forward="false" selection-start-line="81" selection-start-column="86" selection-end-line="81" selection-end-column="86" />
               <folding>
-                <element signature="e#10161#10167#0" expanded="true" />
+                <element signature="e#10048#10054#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -181,37 +62,53 @@
       <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1904">
-              <caret line="112" column="60" lean-forward="false" selection-start-line="112" selection-start-column="60" selection-end-line="112" selection-end-column="60" />
+            <state relative-caret-position="136">
+              <caret line="87" column="9" lean-forward="true" selection-start-line="87" selection-start-column="9" selection-end-line="114" selection-end-column="0" />
               <folding>
-                <element signature="e#6679#6686#0" expanded="true" />
-                <element signature="e#6765#6772#0" expanded="true" />
-                <element signature="e#6841#6848#0" expanded="true" />
-                <element signature="e#8727#8733#0" expanded="true" />
+                <element signature="e#6871#6877#1" expanded="true" />
+                <element signature="e#7295#7301#1" expanded="true" />
+                <element signature="e#7715#7721#0" expanded="true" />
+                <element signature="e#8097#8103#0" expanded="true" />
+                <element signature="e#8482#8488#0" expanded="true" />
+                <element signature="e#10802#10808#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="collaborators.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="how-it-works.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/how-it-works.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="81" column="100" lean-forward="false" selection-start-line="81" selection-start-column="100" selection-end-line="81" selection-end-column="100" />
+              <folding>
+                <element signature="e#7036#7042#1" expanded="true" />
+                <element signature="e#7190#7196#1" expanded="true" />
+                <element signature="e#9125#9131#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="collaborators.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/collaborators.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="99" column="21" lean-forward="false" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
+            <state relative-caret-position="181">
+              <caret line="81" column="100" lean-forward="false" selection-start-line="81" selection-start-column="100" selection-end-line="81" selection-end-column="100" />
               <folding>
-                <element signature="e#11548#11554#0" expanded="true" />
+                <element signature="e#11435#11441#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="students.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="students.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/students.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1683">
-              <caret line="99" column="21" lean-forward="false" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
+            <state relative-caret-position="306">
+              <caret line="81" column="100" lean-forward="false" selection-start-line="81" selection-start-column="100" selection-end-line="81" selection-end-column="100" />
               <folding>
-                <element signature="e#10541#10547#0" expanded="true" />
+                <element signature="e#10428#10434#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -265,6 +162,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>src=&quot;img/</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -272,14 +174,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/faculty.html" />
-        <option value="$PROJECT_DIR$/collaborators.html" />
-        <option value="$PROJECT_DIR$/students.html" />
         <option value="$PROJECT_DIR$/partners.html" />
         <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/puplications.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/how-it-works.html" />
+        <option value="$PROJECT_DIR$/collaborators.html" />
+        <option value="$PROJECT_DIR$/students.html" />
       </list>
     </option>
   </component>
@@ -425,12 +328,12 @@
       <option name="presentableId" value="Default" />
       <updated>1524073368667</updated>
       <workItem from="1524073370558" duration="18388000" />
-      <workItem from="1524093714926" duration="391000" />
+      <workItem from="1524093714926" duration="3543000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18779000" />
+    <option name="totallyTimeSpent" value="21931000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
@@ -470,7 +373,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#12186#12192#0" expanded="true" />
+            <element signature="e#12073#12079#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -490,7 +393,7 @@
         <state relative-caret-position="1683">
           <caret line="99" column="22" lean-forward="false" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
           <folding>
-            <element signature="e#10161#10167#0" expanded="true" />
+            <element signature="e#10048#10054#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -500,10 +403,12 @@
         <state relative-caret-position="1904">
           <caret line="112" column="60" lean-forward="false" selection-start-line="112" selection-start-column="60" selection-end-line="112" selection-end-column="60" />
           <folding>
-            <element signature="e#6679#6686#0" expanded="true" />
-            <element signature="e#6765#6772#0" expanded="true" />
-            <element signature="e#6841#6848#0" expanded="true" />
-            <element signature="e#8727#8733#0" expanded="true" />
+            <element signature="e#6871#6877#1" expanded="true" />
+            <element signature="e#7295#7301#1" expanded="true" />
+            <element signature="e#7715#7721#0" expanded="true" />
+            <element signature="e#8097#8103#0" expanded="true" />
+            <element signature="e#8482#8488#0" expanded="true" />
+            <element signature="e#10802#10808#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -513,7 +418,7 @@
         <state relative-caret-position="1683">
           <caret line="99" column="21" lean-forward="false" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
           <folding>
-            <element signature="e#11548#11554#0" expanded="true" />
+            <element signature="e#11435#11441#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -523,7 +428,7 @@
         <state relative-caret-position="1683">
           <caret line="99" column="21" lean-forward="false" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
           <folding>
-            <element signature="e#10541#10547#0" expanded="true" />
+            <element signature="e#10428#10434#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -576,16 +481,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/students.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1683">
-          <caret line="99" column="21" lean-forward="false" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
-          <folding>
-            <element signature="e#10541#10547#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/partners.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1683">
@@ -619,34 +514,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1904">
-          <caret line="112" column="60" lean-forward="false" selection-start-line="112" selection-start-column="60" selection-end-line="112" selection-end-column="60" />
-          <folding>
-            <element signature="e#6679#6686#0" expanded="true" />
-            <element signature="e#6765#6772#0" expanded="true" />
-            <element signature="e#6841#6848#0" expanded="true" />
-            <element signature="e#8727#8733#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/puplications.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1683">
-          <caret line="99" column="22" lean-forward="false" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
-          <folding>
-            <element signature="e#10161#10167#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/storymap.html" />
     <entry file="file://$PROJECT_DIR$/storymap2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1557">
+          <caret line="183" column="72" lean-forward="false" selection-start-line="183" selection-start-column="63" selection-end-line="183" selection-end-column="72" />
           <folding>
             <marker date="1517269167301" expanded="true" signature="16820:16826" ph="©" />
           </folding>
@@ -655,20 +527,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="144" column="0" lean-forward="false" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+        <state relative-caret-position="221">
+          <caret line="82" column="24" lean-forward="true" selection-start-line="82" selection-start-column="24" selection-end-line="84" selection-end-column="96" />
           <folding>
-            <element signature="e#12186#12192#0" expanded="true" />
+            <element signature="e#12073#12079#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/puplications.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="81" column="86" lean-forward="false" selection-start-line="81" selection-start-column="86" selection-end-line="81" selection-end-column="86" />
+          <folding>
+            <element signature="e#10048#10054#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="87" column="9" lean-forward="true" selection-start-line="87" selection-start-column="9" selection-end-line="114" selection-end-column="0" />
+          <folding>
+            <element signature="e#6871#6877#1" expanded="true" />
+            <element signature="e#7295#7301#1" expanded="true" />
+            <element signature="e#7715#7721#0" expanded="true" />
+            <element signature="e#8097#8103#0" expanded="true" />
+            <element signature="e#8482#8488#0" expanded="true" />
+            <element signature="e#10802#10808#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/how-it-works.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="81" column="100" lean-forward="false" selection-start-line="81" selection-start-column="100" selection-end-line="81" selection-end-column="100" />
+          <folding>
+            <element signature="e#7036#7042#1" expanded="true" />
+            <element signature="e#7190#7196#1" expanded="true" />
+            <element signature="e#9125#9131#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/collaborators.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="99" column="21" lean-forward="false" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
+        <state relative-caret-position="181">
+          <caret line="81" column="100" lean-forward="false" selection-start-line="81" selection-start-column="100" selection-end-line="81" selection-end-column="100" />
           <folding>
-            <element signature="e#11548#11554#0" expanded="true" />
+            <element signature="e#11435#11441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/students.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="81" column="100" lean-forward="false" selection-start-line="81" selection-start-column="100" selection-end-line="81" selection-end-column="100" />
+          <folding>
+            <element signature="e#10428#10434#0" expanded="true" />
           </folding>
         </state>
       </provider>
