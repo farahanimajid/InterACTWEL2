@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0bc05f9-14b2-4b0c-a4ee-13fc92b44a11" name="Default" comment="majid">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/how-it-works.html" />
+    <list default="true" id="b0bc05f9-14b2-4b0c-a4ee-13fc92b44a11" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/collaborators.html" afterPath="$PROJECT_DIR$/collaborators.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/puplications.html" afterPath="$PROJECT_DIR$/puplications.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/students.html" afterPath="$PROJECT_DIR$/students.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.html" afterPath="$PROJECT_DIR$/test.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -168,6 +162,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="majid" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -328,12 +327,20 @@
       <option name="presentableId" value="Default" />
       <updated>1524073368667</updated>
       <workItem from="1524073370558" duration="18388000" />
-      <workItem from="1524093714926" duration="3543000" />
+      <workItem from="1524093714926" duration="3593000" />
     </task>
+    <task id="LOCAL-00001" summary="storymap">
+      <created>1524107807145</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1524107807145</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21931000" />
+    <option name="totallyTimeSpent" value="21981000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
@@ -362,6 +369,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="storymap" />
+    <option name="LAST_COMMIT_MESSAGE" value="storymap" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
