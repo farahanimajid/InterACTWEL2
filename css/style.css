@@ -162,7 +162,7 @@ section#content h1{color:2d637f; margin-bottom:18px;}
 section#content article{}
 
 /**** Right Side Column ****/
-#sideCol{ float:left; display:inline; margin:0; padding:15px 0 15px 0; width:288px; font-size:12px;}
+#sideCol{ float:left; display:inline; margin:0; padding:15px 0 15px 0; width:288px; font-size:12px; background:#E89B34;}
 #sideCol h1, #sideCol h2{color:#6d6e70; font-size:36px; line-height:1; margin-bottom:10px;}
 #sideCol h1, #sideCol p{ margin-left:15px; margin-right:15px;}
 #sideCol .barButton{font-family:'BandaRegularRegular', Arial, Helvetica, sans-serif; height:48px; width:288px; display:block; margin-bottom:3px; font-size:18px;}
