@@ -109,8 +109,8 @@ hr {
 }
 
 h1, h2, h3, h4, h5, h6{ font-family: 'Oswald', Arial, Helvetica, sans-serif; line-height:1.2; font-weight:normal; color:#7d110c;}
-h1{font-size:30px; font-weight:300; text-transform:uppercase; color:#2d637f;}
-h2{font-size:20px; font-weight:300; text-transform:uppercase; margin-bottom:5px;}
+h1{font-size:30px; font-weight:300; /*text-transform:uppercase;*/ color:#2d637f;}
+h2{font-size:20px; font-weight:300; /*text-transform:uppercase;*/ margin-bottom:5px;}
 h3{font-size:20px; margin-bottom:5px; font-weight:300;}
 h4{font-size:16px;}
 h5{font-size:14px;}
@@ -148,8 +148,8 @@ sup, sub 		{   line-height:0;}
 #siteHeader{height:72px;}
 #siteHeader hgroup h1{ float:left; display:inline; width:360px; font-family:'BandaRegularRegular', Arial, Helvetica, sans-serif; line-height:1; font-size:50px; font-weight:normal; color:#2f2f2f;}
 #siteHeader hgroup h1 a{text-decoration:none; color:#2f2f2f; line-height:1; padding:0; margin:0;}
-#siteHeader hgroup h2{ float:left; display:inline; width:640px; font-family:'BandaRegularRegular', Arial, Helvetica, sans-serif; line-height:16px; text-align:right; font-size:16px; color:#2f2f2f; margin:0; padding:0; text-transform:none;}
-#siteHeader hgroup h3{ float:left; display:inline; width:640px; font-family: 'Oswald', sans-serif; font-size:20px; text-align:center; text-transform:uppercase; font-weight: 300; line-height:30px; margin:0; padding:0; color:#2d637f;}
+#siteHeader hgroup h2{ float:left; display:inline; width:640px; font-family:'BandaRegularRegular', Arial, Helvetica, sans-serif; line-height:16px; text-align:right; font-size:16px; color: rgba(87, 87, 87, 0.81); margin:0; padding:0; text-transform:none;}
+#siteHeader hgroup h3{ float:left; display:inline; width:630px; font-family: 'Oswald', sans-serif; font-size:30px; text-align:center; text-transform:uppercase; font-weight: 300; line-height:30px; margin:0; padding:0; color:#2d637f;}
 
 /**** Content Frame ****/
 #mainFrame{ margin:3px 0 3px 0; float:left; display:inline;}
@@ -180,7 +180,7 @@ section#content article{}
 /*** Sponsors Area ***/
 #sponsorsCon{float:left; display:inline; width:650px;}
 #sponsorsCon h1, #sponsorsCon h2{font-size: 18px; color:#2f2f2f; text-transform:uppercase;}
-.sponsorsLogos{float:left; display: inline; margin-right:25px;}
+.sponsorsLogos{float:left; display: inline; margin-right:15px;}
 
 /*** Utility Area ***/
 #utilityCon{float:left; display:inline; width:290px; text-align:right;}
